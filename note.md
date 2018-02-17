@@ -25,7 +25,11 @@
   
 - bloke 家伙；小子 = man = guy
 - punctuate 不时打断；强调；加标点于
-  - The tense silence was punctuated by bursts of gunfire. 紧张的寂静不时为一阵阵的炮火声所打破。
+  - The tense silence was punctuated by bursts of gunfire. 紧张的寂静不时为一阵阵的炮火声所打破。
   - punctual 严守时刻的；准时的；不误期的。
   - Nobody is ever punctual, and eventually you get sucked into behaving like everyone else. 大家都不守时，最后你也不得不变得和他们一样了。
 - choke 阻塞；抑制, 说不出话来, 欲言又止的。
+- straitjacket 紧身衣；约束物 = straightjacket
+  - You can't straightjacket artists and have them compete like athletes. 你不能束缚艺术家们，让他们像运动员一样竞争。 
+
+
