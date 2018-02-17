@@ -48,8 +48,12 @@
   - refract 使折射
   - Light is refracted when it is passed through a prism. 光线通过棱镜时产生折射现象。
 
-
-
+- affectionate 深情的；充满爱的；
+  - The research, conducted in 2007 and 2008, found that affectionate siblings have positive influences on each other no matter their age, gender, or how many years they are apart. 这项于2007年和2008年进行的研究发现不论年龄、性别如何，也不管他们分开多久，感情深厚的兄弟姐妹对彼此都有积极的影响。 
+  - affection 喜爱，感情 The dog has transferred its affection to its new master. 那狗已把它的感情转移到新主人身上。
+  - affectation 做作；矫揉造作；假装
+  - Affectation is inevitably the mark of one not sure of himself. 矫揉造作不可避免的会暴露不能肯定自己的人
+  - Modesty is a learned affectation. And as soon as life slams the modest person against the wall, that modesty drops. ~ Maya Angelou (American poet)
 
 
 
